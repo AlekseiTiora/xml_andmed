@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kaubad>
+  <kaup>
+    <nimetus>Auto</nimetus>
+    <hind>123$</hind>
+    <aasta>2005</aasta>
+    <kaubagrupp>
+      <grupinimi>Mänguasi</grupinimi>
+      <kirjeldus>Lapsele 0-10 aasta</kirjeldus>
+    </kaubagrupp>
+  </kaup>
+  <kaup>
+    <nimetus>Nintendo</nimetus>
+    <hind>399$</hind>
+    <aasta>2017</aasta>
+    <kaubagrupp>
+      <grupinimi>Mänguasi</grupinimi>
+      <kirjeldus>Lapsele 0-10 aasta</kirjeldus>
+    </kaubagrupp>
+  </kaup>
+  <kaup>
+    <nimetus>Puder</nimetus>
+    <hind>5$</hind>
+    <aasta>2005</aasta>
+    <kaubagrupp>
+      <grupinimi>Toit</grupinimi>
+      <kirjeldus>Lapsele 0-10 aasta</kirjeldus>
+    </kaubagrupp>
+  </kaup>
+  <kaup>
+    <nimetus>Lego</nimetus>
+    <hind>500$</hind>
+    <aasta>2018</aasta>
+    <kaubagrupp>
+      <grupinimi>Mänguasi</grupinimi>
+      <kirjeldus>Lapsele 6-99+ aasta</kirjeldus>
+    </kaubagrupp>
+  </kaup>
+  <kaup>
+    <nimetus>lennuk</nimetus>
+    <hind>50$</hind>
+    <aasta>2015</aasta>
+    <kaubagrupp>
+      <grupinimi>Mänguasi</grupinimi>
+      <kirjeldus>Lapsele 0-10 aasta</kirjeldus>
+    </kaubagrupp>
+  </kaup>
+  <kaup>
+    <nimetus>nukk</nimetus>
+    <hind>20$</hind>
+    <aasta>2016</aasta>
+    <kaubagrupp>
+      <grupinimi>Mänguasi</grupinimi>
+    </kaubagrupp>
+  </kaup>
+  <kaup>
+    <nimetus>xbox</nimetus>
+    <hind>720$</hind>
+    <aasta>2020</aasta>
+    <kaubagrupp>
+      <grupinimi>Mänguasi</grupinimi>
+      <kirjeldus>Lapsele 6-99+ aasta</kirjeldus>
+    </kaubagrupp>
+  </kaup>
+</kaubad>
