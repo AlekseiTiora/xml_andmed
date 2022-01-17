@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<temp>
+  <ilmatemperatuur>
+    <temperatuur>-5</temperatuur>
+    <aeg>2022-01-10</aeg>
+    <maakond>
+      <maakonnanimi>Harjumaa</maakonnanimi>
+      <makonnakeskus>Tallinn</makonnakeskus>
+    </maakond>
+  </ilmatemperatuur>
+
+  <ilmatemperatuur>
+    <temperatuur>17</temperatuur>
+    <aeg>2021-08-10</aeg>
+    <maakond>
+      <maakonnanimi>Tartumaa</maakonnanimi>
+      <makonnakeskus>Tartu</makonnakeskus>
+    </maakond>
+  </ilmatemperatuur>
+
+  <ilmatemperatuur>
+    <temperatuur>-15</temperatuur>
+    <aeg>2022-01-14</aeg>
+    <maakond>
+      <maakonnanimi>Pärnumaa</maakonnanimi>
+      <makonnakeskus>Pärnu</makonnakeskus>
+    </maakond>
+  </ilmatemperatuur>
+
+  <ilmatemperatuur>
+    <temperatuur>-8</temperatuur>
+    <aeg>2021-12-09</aeg>
+    <maakond>
+      <maakonnanimi>Läänemaa</maakonnanimi>
+      <makonnakeskus>Haapsalu</makonnakeskus>
+    </maakond>
+  </ilmatemperatuur>
+
+  <ilmatemperatuur>
+    <temperatuur>-5</temperatuur>
+    <aeg>2022-01-10</aeg>
+    <maakond>
+      <maakonnanimi>Viljandimaa</maakonnanimi>
+      <makonnakeskus>Viljandi</makonnakeskus>
+    </maakond>
+  </ilmatemperatuur>
+</temp>
